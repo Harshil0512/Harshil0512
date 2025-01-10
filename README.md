@@ -24,8 +24,7 @@
   </a>  
 </p>
 
-<div align="left">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshil0512&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=5BCDEC&hide_border=true&stroke=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" align="center" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshil-512&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
  
 <!-- <p><img align="center" border=5BCDEC& src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshil0512&show_icons=true&locale=en&layout=compact" alt="Harshil0512" /></p>-->
 <br/> 
