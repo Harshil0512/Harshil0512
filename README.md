@@ -29,5 +29,5 @@
 <!-- <p><img align="center" border=5BCDEC& src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshil0512&show_icons=true&locale=en&layout=compact" alt="Harshil0512" /></p>-->
 <br/> 
 <br/>
-<p><img align="center" width="100%" src="https://activity-graph.herokuapp.com/graph?username=Harshil0512&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Harshil0512" /></p>
+[![Harshil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshil0512&bg_color=a8beff&color=382436&line=2550a7&point=666666&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
